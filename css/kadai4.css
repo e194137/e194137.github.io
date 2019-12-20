@@ -1,0 +1,22 @@
+h1#a{
+    background-color: aqua;
+ color: brown;
+    text-align: center;
+    
+}
+h2#b{
+    background-color: fuchsia;
+    color: aliceblue;
+    text-align: center
+}
+h2#c{
+    background-color: forestgreen;
+    color: aquamarine;
+    text-align: center;
+    
+}
+h1#d{
+    background-color: beige;
+    color: chartreuse;
+    text-align: center;
+}
