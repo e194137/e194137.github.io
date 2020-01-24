@@ -1,0 +1,78 @@
+
+div.top{
+    width:1000px;
+    height: 40px;
+    background-image: url("../images/1112.jpeg");
+    text-align: left;
+    font-size: 30px;  
+    margin-bottom: 20px;
+}
+div.middle{
+   width: 1000px;
+    margin-bottom: 20px;
+    font-size: 0;
+
+}
+div.left{
+    width: 150px;
+    vertical-align: top;
+    display: inline-block;
+}
+
+div.box{
+    width: 150px;
+    height: 35px;
+    background-image: url("../images/1112.jpeg");
+    font-size: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+div.box2{
+width: 150px;
+    height: 35px;
+    background-image: url("../images/1112.jpeg");
+    font-size: 30px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+div.box3{
+width: 150px;
+    height: 35px;
+    background-image: url("../images/1112.jpeg");
+    font-size: 30px;
+    text-align: center;
+}
+div.right{
+    width: 800px;
+    vertical-align: top;
+    margin-left: 50px;
+    display: inline-block;
+    
+}
+div.box4{
+width: 800px;
+    font-size: 30px;
+    text-align: center;
+    
+}
+div.box5{
+width: 800px;
+    font-size: 20px;
+    text-align: left;
+    text-decoration-color: aliceblue;
+   background-image: url("../images/1112.jpeg");
+     
+}
+
+div.footer{
+    width:1000px;
+    background-color:brown;
+    text-align: left;
+    font-size: 15px;
+}
+
+div.wrap{
+    width:1000px;
+    margin: 0px auto;
+    background-image: url("../images/1111.jpg");
+}
